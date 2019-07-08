@@ -18,3 +18,13 @@
 
 ## Single setup file to install everything
 	- install.sh (TODO)
+
+## Installation Instructions
+```
+git clone git@github.com:Nasdin/Setup_fresh_fedora_develop.git
+
+cd Setup_fresh_fedora_develop
+
+sudo bash install.sh
+```
+

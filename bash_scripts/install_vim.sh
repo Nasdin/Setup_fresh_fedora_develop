@@ -1,4 +1,4 @@
-sudo dnf update
-sudo dnf install vim-enhanced
+sudo dnf -y update
+sudo dnf -y install vim-enhanced
 echo "alias vi='vim'" >> ~/.bashrc
 

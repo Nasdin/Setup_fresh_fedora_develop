@@ -1,4 +1,5 @@
-sudo dnf update
-sudo dnf upgrade
+sudo dnf -y update
+sudo dnf -y upgrade
+sudo dnf -y install alien
 sudo dnf -y group install "Deepin Desktop" 
 

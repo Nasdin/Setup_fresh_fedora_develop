@@ -7,6 +7,7 @@
 	- JetBrains ToolKit
 	- Vim Configured for Python
 	- Docker
+	- alien (Debian support)
 	- Franz
 	- Kubernetes(minikube)
 	- Deepin

@@ -11,8 +11,8 @@
 	- Franz (Done)
 	- Kubernetes(minikube) (TODO)
 	- Deepin (Done)
-	- Anaconda (TODO)
-	- chrome (TODO)
+	- Anaconda (Done)
+	- chrome (Done)
 	- Git setup and ssh setup (Done)
 	- LastPass (Done)
 
